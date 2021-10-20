@@ -1,2 +1,3 @@
-# py-metacom
-Python package version of R Metacom package
+# Metacom - Metacommunity Analysis
+
+This package is a rebuild of R metacom package.
